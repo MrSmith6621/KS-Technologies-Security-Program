@@ -1,0 +1,43 @@
+KS Technologies Ltd.
+
+Industry: Technology Services
+Location: Dublin, Ireland
+Employees: 50
+Working Model: Hybrid (Office + Remote)
+
+Departments:
+- IT: 5
+- Finance: 6
+- HR: 4
+- Sales: 15
+- Operations: 15
+- Management: 5
+
+Technology Environment:
+- Windows 11 laptops
+- Microsoft 365
+- Microsoft Entra ID
+- Windows Server / Active Directory
+- Microsoft Azure
+- SharePoint and OneDrive
+- Exchange Online / Outlook
+- Wired and wireless office networks
+- Remote access for hybrid employees
+
+Data Classification:
+
+CRITICAL
+- Employee credentials
+- Administrator credentials
+
+HIGH
+- Employee / HR records
+- Payroll information
+- Financial records
+- Customer data
+
+MEDIUM
+- Internal company documents
+
+LOW
+- Public company information

@@ -1,0 +1,11 @@
+Asset ID,Asset Name,Asset Type,Department,Owner,Criticality,Data Classification,Operating System,Status
+KS-LAP-001,FIN-LAP-001,Laptop,Finance,Finance User 01,Critical,High,Windows 11,Active
+KS-SRV-001,KS-DC-01,Server,IT,IT Department,Critical,High,Windows Server 2022,Active
+KS-NET-001,KS-FW-01,Firewall,IT,IT Department,Critical,High,N/A,Active
+KS-NET-002,KS-SW-01,Managed Switch,IT,IT Department,High,Medium,N/A,Active
+KS-CLD-001,KS-Entra-ID,Cloud Identity Service,IT,IT Department,Critical,High,Cloud Service,Active
+KS-CLD-002,KS-Microsoft-365,Cloud Productivity Service,Company-Wide,IT Department,Critical,High,Cloud Service,Active
+KS-WEB-001,KS-Public-Website,Website,Company-Wide,IT Department,High,Low,Web Service,Active
+KS-SRV-002,KS-FS-01,File Server,Company-Wide,IT Department,High,High,Windows Server 2022,Active
+KS-NET-003,KS-WAP-01,Wireless Access Point,Company-Wide,IT Department,Medium,Low,N/A,Active
+KS-CLD-003,KS-Azure-Environment,Cloud Infrastructure,Company-Wide,IT Department,High,High,Cloud Service,Active
